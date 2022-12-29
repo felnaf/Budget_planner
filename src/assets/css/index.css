@@ -1,0 +1,42 @@
+.box{
+    background-color: rgb(135, 204, 204);
+    height:51px;
+    width:190px;
+    text-align: center;
+    padding-top: 11px;
+}
+.cost{
+    /* padding-left: 116px;
+    color:white;
+    background-color: aqua; */
+padding: 8px;
+color: white;
+background-color: aqua;
+border-radius: 5px;
+height: 85px;
+width: 35px;
+margin-left: 100px;
+}
+
+.delete{
+    margin-left: 10px;
+}
+.box1{
+    background-color: rgb(107, 165, 110);
+    height:51px;
+    width:186px;
+    text-align: center;
+    padding-top: 11px;
+    margin-left: 15px;
+}
+.box2{
+    background-color: rgb(151, 223, 233);
+    height:51px;
+    width:190px;
+    text-align: center;
+    padding-top: 11px;
+    margin-left: 15px;
+}
+.expense{
+    margin-top: 10px;;
+}
